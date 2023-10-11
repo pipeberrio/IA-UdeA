@@ -19,4 +19,4 @@ DIEGO ANDRES RODRIGUEZ GALEANO; CC: 106121295, INGENIERIA INDUSTRIAL
 
 
 VIDEOS
-ENTTREGA1: https://www.youtube.com/watch?v=wJHdxGnQU10
+ENTREGA1: https://www.youtube.com/watch?v=wJHdxGnQU10
