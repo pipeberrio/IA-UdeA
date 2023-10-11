@@ -1,8 +1,8 @@
-# IA-UdeA
+## IA-UdeA
 
 Proyectos Inteligencia artificial para las ciencias e ingenierias UdeA
 
-*INTEGRANTES*
+##*INTEGRANTES*
 
 RAUL FELIPE BERRIO; CC: 1035416370, INGENIERIA INDUSTRIAL.
 
@@ -18,5 +18,5 @@ DIEGO ANDRES RODRIGUEZ GALEANO; CC: 106121295, INGENIERIA INDUSTRIAL
 
 
 
-VIDEOS
-ENTREGA1: https://www.youtube.com/watch?v=wJHdxGnQU10
+##VIDEOS
+#ENTREGA1:# https://www.youtube.com/watch?v=wJHdxGnQU10
