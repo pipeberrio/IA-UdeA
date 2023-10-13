@@ -22,4 +22,16 @@ DIEGO ANDRES RODRIGUEZ GALEANO; CC: 106121295, INGENIERIA INDUSTRIAL
 
 
 
-**INFORME2:** https://www.youtube.com/watch?v=wJHdxGnQU10
+**ENTREGA 2 AVANCE DEL PROYECTO:** https://www.youtube.com/watch?v=wJHdxGnQU10
+
+
+**DATA**
+
+
+1. Descargue la base de datos de Kaggle en el siguiente enlace
+
+
+2. Una los datos a su Google Drive, copiando los archivos en la unidad pincipal, sin cambiar los nombres ni crear carpetas adicionales.
+
+
+3. EJecute el codigo y permita que Google Colab acceda al Drive
