@@ -1,6 +1,7 @@
 **IA-UdeA**
 
 Proyectos Inteligencia artificial para las ciencias e ingenierias UdeA
+[Abrir en Colab](https://colab.research.google.com/github/tu_usuario/tu_repositorio/blob/main/nombre_del_archivo.ipynb)
 
 **INTEGRANTES**
 
