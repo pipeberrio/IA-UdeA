@@ -24,13 +24,13 @@ DIEGO ANDRES RODRIGUEZ GALEANO; CC: 106121295, INGENIERIA INDUSTRIAL
 
 
 
-**ENTREGA 2 AVANCE DEL PROYECTO:** https://www.youtube.com/watch?v=wJHdxGnQU10
+**[Video Entrega 2do Informe](https://www.youtube.com/watch?v=wJHdxGnQU10 "Video Entrega 2do Informe")**
 
 
 **DATA**
 
 
-1. Descargue la base de datos de Kaggle en el siguiente enlace https://www.kaggle.com/competitions/playground-series-s3e20/data
+1. Descargue la base de datos de Kaggle en el siguiente enlace [Predict CO2 Emissions in Rwanda](https://www.kaggle.com/competitions/playground-series-s3e20/data "Predict CO2 Emissions in Rwanda")
 
 
 2. Una los datos a su Google Drive, copiando los archivos en la unidad pincipal, sin cambiar los nombres ni crear carpetas adicionales.
