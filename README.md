@@ -36,4 +36,4 @@ Proyectos Inteligencia artificial para las ciencias e ingenierias UdeA
 2. Una los datos a su Google Drive, copiando los archivos en la unidad pincipal, sin cambiar los nombres ni crear carpetas adicionales.
 
 
-3. EJecute el codigo y permita que Google Colab acceda al Drive
+3. Ejecute el codigo y permita que Google Colab acceda al Drive
