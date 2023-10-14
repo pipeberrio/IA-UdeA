@@ -30,7 +30,7 @@ DIEGO ANDRES RODRIGUEZ GALEANO; CC: 106121295, INGENIERIA INDUSTRIAL
 **DATA**
 
 
-1. Descargue la base de datos de Kaggle en el siguiente enlace
+1. Descargue la base de datos de Kaggle en el siguiente enlace https://www.kaggle.com/competitions/playground-series-s3e20/data
 
 
 2. Una los datos a su Google Drive, copiando los archivos en la unidad pincipal, sin cambiar los nombres ni crear carpetas adicionales.
