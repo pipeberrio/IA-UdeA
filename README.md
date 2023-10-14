@@ -3,7 +3,7 @@
 
 Proyectos Inteligencia artificial para las ciencias e ingenierias UdeA
 
-
+--------------------------------------------------------------------------------------------------------------
 **INTEGRANTES**
 
 **RAUL FELIPE BERRIO**; CC: 1035416370, INGENIERIA INDUSTRIAL.
@@ -18,7 +18,7 @@ Proyectos Inteligencia artificial para las ciencias e ingenierias UdeA
 
 
 
-
+-------------------------------------------------------------------------------------------------------------
 
 **VIDEOS**
 
