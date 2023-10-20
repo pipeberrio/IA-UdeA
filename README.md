@@ -30,10 +30,7 @@ Proyectos Inteligencia artificial para las ciencias e ingenierias UdeA
 **DATA**
 
 
-1. Descargue la base de datos de Kaggle en el siguiente enlace [Predict CO2 Emissions in Rwanda](https://www.kaggle.com/competitions/playground-series-s3e20/data "Predict CO2 Emissions in Rwanda")
+Los datos de este proyecto vienen de la competicion  [Predict CO2 Emissions in Rwanda](https://www.kaggle.com/competitions/playground-series-s3e20/data "Predict CO2 Emissions in Rwanda")
 
 
-2. Una los datos a su Google Drive, copiando los archivos en la unidad pincipal, sin cambiar los nombres ni crear carpetas adicionales.
 
-
-3. Ejecute el codigo y permita que Google Colab acceda al Drive
