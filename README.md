@@ -24,7 +24,7 @@ Proyectos Inteligencia artificial para las ciencias e ingenierias UdeA
 
 
 
-**[Video Entrega 2do Informe](https://www.youtube.com/watch?v=wJHdxGnQU10 "Video Entrega 2do Informe")**
+**[Video Entrega 2do Informe](https://www.youtube.com/watch?v=skcQYpVwnt8 "Video Entrega 2do Informe")**
 
 -------------------------------------------------------------------------------------------------------------
 **DATA**
