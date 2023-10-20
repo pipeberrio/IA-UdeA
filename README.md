@@ -1,10 +1,10 @@
 
-**IA-UdeA**
+##**IA-UdeA**
 
 Proyectos Inteligencia artificial para las ciencias e ingenierias UdeA
 
 --------------------------------------------------------------------------------------------------------------
-**INTEGRANTES**
+##**INTEGRANTES**
 
 **RAUL FELIPE BERRIO**; CC: 1035416370, INGENIERIA INDUSTRIAL.
 
@@ -20,14 +20,14 @@ Proyectos Inteligencia artificial para las ciencias e ingenierias UdeA
 
 -------------------------------------------------------------------------------------------------------------
 
-**VIDEOS**
+##**VIDEOS**
 
 
 
 **[Video Entrega 2do Informe](https://www.youtube.com/watch?v=skcQYpVwnt8 "Video Entrega 2do Informe")**
 
 -------------------------------------------------------------------------------------------------------------
-**DATA**
+##**DATA**
 
 
 Los datos de este proyecto vienen de la competicion  [Predict CO2 Emissions in Rwanda](https://www.kaggle.com/competitions/playground-series-s3e20/data "Predict CO2 Emissions in Rwanda")
