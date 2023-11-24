@@ -19,7 +19,6 @@ Proyectos Inteligencia artificial para las ciencias e ingenierias UdeA
 
 
 -------------------------------------------------------------------------------------------------------------
-
 ## Videos
 
 [VIDEO PRIMERA ENTREGA](https://www.youtube.com/watch?v=skcQYpVwnt8 "VIDEO 1")
